@@ -1,0 +1,14 @@
+{
+  "author": "HologramAgent",
+  "auto_start": false,
+  "description": "MCP (Model Context Protocol) 客户端：接入外部 MCP 服务器，透传其工具",
+  "entry": "plugin.bin",
+  "name": "mcp",
+  "name_en": "mcp",
+  "name_zh": "MCP 服务器",
+  "tags": [
+    "mcp",
+    "protocol"
+  ],
+  "version": "1.0.0"
+}
